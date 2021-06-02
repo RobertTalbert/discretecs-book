@@ -6,14 +6,14 @@
 name: Discrete Structures for Computer Science 
 
 # Short bio or description (displayed in the header)
-description: This is a book I wrote, using the Jekyll Book Boilerplate
+description: Robert Talbert, Ph.D., Department of Mathematics
 #
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://roberttalbert.github.io/discretecs-book/ 
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 
