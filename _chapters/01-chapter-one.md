@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Chapter One
+title: Chapter 17
 mathjax: true 
 ---
 
-Chapter One
+Chapter 17
 ===
 
 
